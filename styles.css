@@ -1,10 +1,14 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(99deg, #002fff, #00e1ff);
+  padding: 50px;
+  color: aliceblue
 }
 
 #app {
   width: 300px;
   margin: 0 auto;
+  box-shadow: 0 0 5px #000, 0 0 10px #0008, 0 0 20px #0006;
 }
 
 #player {
